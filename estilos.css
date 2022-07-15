@@ -1,0 +1,61 @@
+
+
+
+
+
+
+/* ? ----- Cuenta Regresiva ----- */
+#cuenta {
+	position: fixed;
+	width: 100%;
+	display: flex;
+	margin-bottom: 100px;
+	top: 83%;
+	background-color: rgb(255, 153, 0);
+	justify-content: center;
+	z-index: 500;
+
+}
+
+.simply-section {
+	background: rgb(42, 39, 41);
+	width: 110px;
+	height: 110px;
+	margin: 0px 20px;
+	border-radius: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+
+}
+
+.simply-amount {
+	display: block;
+	font-size: 40pt;
+	font-weight: 700;
+	color: rgb(255, 0, 0);
+
+}
+
+.simply-word {
+	font-size: 16pt;
+	letter-spacing: normal;
+	color: rgb(18, 132, 132);
+
+}
+
+
+/* ? ---------------------------- */
+
+#fechacont {
+	position: fixed;
+	font-size: 18pt;
+	text-transform: uppercase;
+	letter-spacing: normal;
+	color: rgb(132, 18, 92);
+	left: 5%;
+	top: 85%;
+	z-index: 501;
+
+}
